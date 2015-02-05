@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="142.829px" height="164.925px" viewBox="0 0 142.829 164.925" enable-background="new 0 0 142.829 164.925"
+	 xml:space="preserve">
+<polygon fill="#1D1E1C" fill-opacity="0.15" points="0,41.231 71.414,0 142.829,41.231 142.829,123.693 71.414,164.925 0,123.693 
+	"/>
+<polygon fill="#1D1E1C" fill-opacity="0.5" points="10,117.92 10,47.004 71.414,11.547 132.829,47.004 132.829,117.92 
+	71.414,153.378 "/>
+<polygon fill="#1D1E1C" fill-opacity="0.5" points="16,114.456 16,50.469 71.414,18.475 126.829,50.469 126.829,114.456 
+	71.414,146.449 "/>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="71.4144" y1="82.4348" x2="46.719" y2="39.6612">
+		<stop  offset="0" style="stop-color:#CAB0A2;stop-opacity:0.8"/>
+		<stop  offset="0.4178" style="stop-color:#C6AB99;stop-opacity:0.6747"/>
+		<stop  offset="1" style="stop-color:#BCA085;stop-opacity:0.5"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_1_)" points="71.414,25.403 71.414,82.435 22.024,53.919 	"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="71.4144" y1="82.4348" x2="96.1097" y2="39.6612">
+		<stop  offset="0" style="stop-color:#CAB0A2;stop-opacity:0.8"/>
+		<stop  offset="0.4178" style="stop-color:#C6AB99;stop-opacity:0.6747"/>
+		<stop  offset="1" style="stop-color:#BCA085;stop-opacity:0.5"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_2_)" points="120.805,53.919 71.414,82.435 71.414,25.403 	"/>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="71.4143" y1="82.4349" x2="120.805" y2="82.4349">
+		<stop  offset="0" style="stop-color:#CAB0A2;stop-opacity:0.8"/>
+		<stop  offset="0.4178" style="stop-color:#C6AB99;stop-opacity:0.6747"/>
+		<stop  offset="1" style="stop-color:#BCA085;stop-opacity:0.5"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_3_)" points="120.805,110.951 71.414,82.435 120.805,53.919 	"/>
+	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="71.4143" y1="82.4348" x2="96.1096" y2="125.2084">
+		<stop  offset="0" style="stop-color:#CAB0A2;stop-opacity:0.8"/>
+		<stop  offset="0.4178" style="stop-color:#C6AB99;stop-opacity:0.6747"/>
+		<stop  offset="1" style="stop-color:#BCA085;stop-opacity:0.5"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_4_)" points="71.414,139.466 71.414,82.435 120.805,110.951 	"/>
+	<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="71.4143" y1="82.4348" x2="46.7189" y2="125.2084">
+		<stop  offset="0" style="stop-color:#CAB0A2;stop-opacity:0.8"/>
+		<stop  offset="0.4178" style="stop-color:#C6AB99;stop-opacity:0.6747"/>
+		<stop  offset="1" style="stop-color:#BCA085;stop-opacity:0.5"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_5_)" points="22.024,110.95 71.414,82.435 71.414,139.466 	"/>
+	<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="71.4143" y1="82.4347" x2="22.0236" y2="82.4347">
+		<stop  offset="0" style="stop-color:#CAB0A2;stop-opacity:0.8"/>
+		<stop  offset="0.4178" style="stop-color:#C6AB99;stop-opacity:0.6747"/>
+		<stop  offset="1" style="stop-color:#BCA085;stop-opacity:0.5"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_6_)" points="22.024,53.919 71.414,82.435 22.024,110.95 	"/>
+</g>
+<polygon fill="#1D1E1C" fill-opacity="0.05" points="71.414,25.403 71.414,82.435 22.024,53.919 "/>
+<polygon fill="#1D1E1C" fill-opacity="0.15" points="120.805,53.919 71.414,82.435 71.414,25.403 "/>
+<polygon fill="#1D1E1C" fill-opacity="0.3" points="120.805,110.951 71.414,82.435 120.805,53.919 "/>
+<polygon fill="#1D1E1C" fill-opacity="0.35" points="71.414,139.466 71.414,82.435 120.805,110.951 "/>
+<polygon fill="#1D1E1C" fill-opacity="0.25" points="22.024,110.95 71.414,82.435 71.414,139.466 "/>
+<polygon fill="#1D1E1C" fill-opacity="0.1" points="22.024,53.919 71.414,82.435 22.024,110.95 "/>
+</svg>
